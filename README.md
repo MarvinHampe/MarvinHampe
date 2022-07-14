@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
 
-<ol>
-<li>Learning how to code</li>
+ul { color: green }
+
+<ul>
+<li>Currently learning how to code</li>

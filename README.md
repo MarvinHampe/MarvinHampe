@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 ul { color: green }
 
+</style>
+
 <ul>
 <li>Currently learning how to code</li>

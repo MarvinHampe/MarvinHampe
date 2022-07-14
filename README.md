@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-
-ul { color: green }
-
-</style>
 
 <ul>
 <li>Currently learning how to code</li>
+<li><a href="https://www.twitch.tv/">Twitch</a></li>
